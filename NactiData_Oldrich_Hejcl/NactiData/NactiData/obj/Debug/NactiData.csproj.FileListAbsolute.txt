@@ -1,0 +1,8 @@
+C:\Users\Qelou\Desktop\NactiData_Oldrich_Hejcl\NactiData\NactiData\bin\Debug\NactiData.exe.config
+C:\Users\Qelou\Desktop\NactiData_Oldrich_Hejcl\NactiData\NactiData\bin\Debug\NactiData.exe
+C:\Users\Qelou\Desktop\NactiData_Oldrich_Hejcl\NactiData\NactiData\bin\Debug\NactiData.pdb
+C:\Users\Qelou\Desktop\NactiData_Oldrich_Hejcl\NactiData\NactiData\obj\Debug\NactiData.csproj.AssemblyReference.cache
+C:\Users\Qelou\Desktop\NactiData_Oldrich_Hejcl\NactiData\NactiData\obj\Debug\NactiData.csproj.SuggestedBindingRedirects.cache
+C:\Users\Qelou\Desktop\NactiData_Oldrich_Hejcl\NactiData\NactiData\obj\Debug\NactiData.csproj.CoreCompileInputs.cache
+C:\Users\Qelou\Desktop\NactiData_Oldrich_Hejcl\NactiData\NactiData\obj\Debug\NactiData.exe
+C:\Users\Qelou\Desktop\NactiData_Oldrich_Hejcl\NactiData\NactiData\obj\Debug\NactiData.pdb
